@@ -1,6 +1,6 @@
 package ClassAssignment;
 
-//4. Write a program to check if the two numbers 23 and 45 are equal.
+//4. Write a program to check if the two numbers 10 and 20 are equal.
 
 public class Assignment_4 {
     public static void main(String[] args) {

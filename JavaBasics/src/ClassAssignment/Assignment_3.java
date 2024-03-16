@@ -4,7 +4,7 @@ package ClassAssignment;
 //Now, the modulus of the quotient is taken with 5 and then multiply
 // the resultant value by 5. Display the final result.
 
-public class Assignment_3 {
+public class Assignment {
 
     public static void main(String[] args) {
            int x=20;
